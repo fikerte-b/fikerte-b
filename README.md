@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **deployment platforms**
 
-- 📫 How to reach me **fikertebenti@gmail.com**
+- 📫 How to reach me **: fikertebenti@gmail.com**
 
-- ⚡ Fun fact **Watch International Drama series**
+- ⚡ Fun fact **: Watch International Drama series**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
