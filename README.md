@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/7Ilc.gif)]
+
 <h1 align="center">Hi 👋, I'm Fikerte</h1>
 <h3 align="center">A passionate software developer</h3>
 
