@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/3AyY.gif">
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **my personal project**
 
 - 🌱 I’m currently learning **deployment platforms**
 
