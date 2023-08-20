@@ -4,13 +4,13 @@
 
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/3AyY.gif">
 
-- 🔭 I’m currently working on **my personal project**
+- 🔭 I’m currently working on ** personal project**
 
 - 🌱 I’m currently learning **deployment platforms**
 
 - 📫 How to reach me **: fikertebenti@gmail.com**
 
-- ⚡ Fun fact **: Watch International Drama series**
+- ⚡ Fun fact **:Love to Watch International Drama series**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
